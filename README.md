@@ -3,7 +3,7 @@
 - 👀 I’m interested in full-stack development, open source contributions, and building scalable systems using **AWS**, **Firebase**, and **Express.js**.
 - 🌱 I’m currently learning **Next.js**, **Machine Learning**, and sharpening my skills in cloud integration and backend development.
 - 💞️ I’m looking to collaborate on open source, hackathon projects, and real-world apps involving **ML**, **cloud**, or **modern web frameworks**.
-- 📫 How to reach me: [LinkedIn]((https://www.linkedin.com/in/tejas-dumbhare-0823632b9)) | tejasdumbhare@gmail.com
+- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/tejas-dumbhare-0823632b9]) | tejasdumbhare@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I treat bugs like mini-bosses in a game. You win some, you rage quit some (and then come back stronger).
 
